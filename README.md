@@ -19,11 +19,11 @@
           Javascript
 - 💞️ Estou aberto à colaborações
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Minhas redes sociais:</h3>
 <p align="left">
 <a href="https://twitter.com/denisdiniz99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40"/></a>
 <a href="http://linkedin.com/in/denisdiniz99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="http://https://www.instagram.com/denis.diniz1/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.instagram.com/denis.diniz1/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 </p>
 
 <!---
